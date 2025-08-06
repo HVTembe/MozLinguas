@@ -1,0 +1,82 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
+  <diagram name="Page-1" id="GIc9tRuJycBdatVRoH0d">
+    <mxGraphModel dx="2570" dy="2213" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-1" value="Language" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="910" y="130" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-2" value="Teacher" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-3" value="Aluno" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="50" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-4" value="Admin" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="750" y="520" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-5" value="User" style="whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="350" y="850" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-6" value="Gerencia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="560" y="390" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-7" value="Gerencia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="800" y="270" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-8" value="Leciona" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="540" y="200" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-9" value="Gerencia" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="540" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-11" value="Estuda" style="shape=rhombus;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="140" y="370" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-23" value="Relationship" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-50" y="-300" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-24" value="Exercicio" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-240" y="-60" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-25" value="Reading" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="30" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-27" value="Writing" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-28" value="Listening" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-29" value="Grammar" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="580" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-30" value="Vocabulary" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="780" y="-100" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-31" value="Lesson" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="390" y="-410" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-32" value="PAbertas" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-33" value="Multichoice" style="shape=ext;margin=3;double=1;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-34" value="Pertence" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-36" value="Resolve" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="-200" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-37" value="Cria" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="60" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rtUTAHoFXrLmAwMOdA8T-38" value="Cria" style="shape=rhombus;double=1;perimeter=rhombusPerimeter;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="270" y="185" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
